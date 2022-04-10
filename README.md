@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nayyl
+- 🌱 I’m currently learning glua
+- 📫 How to reach me : Nayl#1182
